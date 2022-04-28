@@ -44,7 +44,8 @@ long | 64 bits
 UUID | 128 bits
 
 
-Databases: The idea is to understand how much storage does different databases support and the capacity limitations / constraints.
+**Databases:** The idea is to understand how much storage does different databases support and the capacity limitations / constraints.
+
 While estimating the storage requirements ,we should also consider the space a Database needs to run compression. For example for Cassandra its about 30%.
 
 How much space does Cassandra take while it runs through compression / compaction? This is needed to estimate storage requirements
@@ -57,12 +58,12 @@ Document|MongoDB
 SQL|MySQL||
    |Oracle||
    
-Web / Application Servers:
+**Web / Application Servers:**
 Type|Server|Requests|Connections|
 ----|------|--------|-----------|
 App|Tomcat|||
 
-Queues/ Streams:
+**Queues/ Streams:**
 
 Broker|Requests|Throughput|
 -----|---------|----------|
