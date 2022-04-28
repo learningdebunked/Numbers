@@ -70,3 +70,10 @@ Broker|Requests|Throughput|
 Kafka|||
 ActiveMQ|||
 SQS|||
+
+**Availability numbers**
+type| Daily| weekly|monthly| Quarterly | Yearly |
+-----|-------|------|---------|----------|------|
+5 9's |0|6s|26s|1m 18s| 5m 15s|
+3 9's ||
+
