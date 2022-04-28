@@ -5,11 +5,11 @@ Numbers are important for designing systems and I often see Engineers including 
 
 |  Known as         | In Bytes       | Ten Powers Header | Actual Number
 --------------------| -------------  | ------------      |---------------   
-| Thousand ( 2^10)          |     1KB        | 10 ^ 3            | 1 000                             
-| 1 Million (2^20)           | 1MB            | 10 ^ 6            | 1 000 000 
-1 Billion   (2^30)        | 1GB            | 10 ^ 9            | 1 000 000 000
-1 Trillion  (2^40)        | 1TB            | 10 ^ 12           | 1 000 000 000 000 
-1 Quadrillion (2^50)       | 1PB            | 10 ^ 15           | 1 000 000 000 000 000
+| Thousand ( 2^10)          |     1 Kilo Byte        | 10 ^ 3            | 1 000                             
+| 1 Million (2^20)           | 1 Mega Byte            | 10 ^ 6            | 1 000 000 
+1 Billion   (2^30)        | 1 Giga Byte            | 10 ^ 9            | 1 000 000 000
+1 Trillion  (2^40)        | 1 Tera Byte            | 10 ^ 12           | 1 000 000 000 000 
+1 Quadrillion (2^50)       | 1 Peta Byte            | 10 ^ 15           | 1 000 000 000 000 000
 1 Quintillion       |                 | 10 ^ 18           | 1 000 000 000 000 000 000
 1 Sextillion        |                 | 10 ^ 21           | 1 000 000 000 000 000 000 000
 1 Septillion        |                 | 10 ^ 24           | 1 000 000 000 000 000 000 000 000 
