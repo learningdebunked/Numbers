@@ -15,6 +15,7 @@ Numbers are important for designing systems and I often see Engineers including 
 1 Septillion        |                 | 10 ^ 24           | 1 000 000 000 000 000 000 000 000 
 
 
+Number of seconds in a day : Approx 10 ^ 5
 
 What Latency numbers should i Know ?
 
