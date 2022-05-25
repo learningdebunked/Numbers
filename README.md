@@ -78,3 +78,7 @@ type| Daily| weekly|monthly| Quarterly | Yearly |
 5 9's |0|6s|26s|1m 18s| 5m 15s|
 3 9's ||
 
+
+
+ApiGEE Gateway Limits: //TODO know the limits of APIGEE 
+
