@@ -58,6 +58,7 @@ GraphDB     |Neo4j||
 Document|MongoDB
 SQL|MySQL||
    |Oracle||
+Timeseries|Influx Db| 8 cores | 32GB RAM| 250K writes per second   
    
 **Web / Application Servers:**
 Type|Server|Requests|Connections|
