@@ -84,6 +84,7 @@ type| Daily| weekly|monthly| Quarterly | Yearly |
 ApiGEE Gateway Limits: //TODO know the limits of APIGEE 
 
 **CPU Powers ( Cores, Threads ) and Clock Speeds
+
 Cores increase the amount of work accomplished at a time, whereas threads improve throughput, computational speed-up.
 
 |  Cores         | Types       | Power  Consuption| Clock Speed
