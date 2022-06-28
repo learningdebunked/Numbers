@@ -92,3 +92,6 @@ Cores increase the amount of work accomplished at a time, whereas threads improv
 | 1          |     Single        | With increased clock speed , high power consumption to execute tasks faster          | Need high clock speeds                            
 | Many           | Multi            | Normal power consumption           | Twice the clock speed
 
+
+**Hard disks and failure rates**
+//TODO add details around the mean time to failure of a hard disk. Typically its between 10 to 50 years
