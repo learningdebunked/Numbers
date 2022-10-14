@@ -17,8 +17,6 @@ Numbers are important for designing systems and I often see Engineers including 
 
 Number of seconds in a day : Approx 10 ^ 5 ( Actual 86400 , but for calculations its ok to approximate it to 10 ^5)
 
-Time for DNS Look up should be b/w 6-10 ms
-
 What Latency numbers should i Know ?
 
 1) L1 Cache reference  = 0.5ns
@@ -30,6 +28,7 @@ What Latency numbers should i Know ?
 7) Round trip with the same data center = 500 micro seconds
 8) Disk seek = 10 ms
 9) Send Packet CA->Netherlands->CA = 150 ms
+10) DNS lookup : 6-10ms
 
 Object Sizes:
 I use Java , so these numbers depend on the language and implementation
