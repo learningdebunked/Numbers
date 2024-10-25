@@ -96,3 +96,7 @@ Cores increase the amount of work accomplished at a time, whereas threads improv
 
 **Hard disks and failure rates**
 //TODO add details around the mean time to failure of a hard disk. Typically its between 10 to 50 years
+
+
+![image](https://github.com/user-attachments/assets/e048f4c5-7ba2-4824-ab8b-6b90a310a9b5)
+
